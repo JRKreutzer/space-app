@@ -1,8 +1,21 @@
-# React + Vite
+# Space App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Atividade realizada durante o curso da Alura de React, com foco no JavaScript e estilizar componentes com Styled Components e manipular arquivos estáticos.
 
-Currently, two official plugins are available:
+## 🔨 Aprendizado adquirido ao longo do curso do projeto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Diferenciar o Vite do CRA e conhecer as vantagens do uso do Styled Components;
+- Utilizar styled-components para criação de uma NavBar e estilização de um banner;
+- Projetar e implementar componentes React para exibir imagens e legendas;
+- Aplicar estilos personalizados e acessíveis para uma galeria de fotos;
+- Adicionar uma barra lateral de imagens populares e footer.
+
+## ✔️ Técnicas e tecnologias utilizadas
+
+- `JavaScript` - Linguagem de programação principal
+- `React` - Uma biblioteca JavaScript de código aberto
+- `Vite` - Uma ferramenta de build ultrarrápida para projetos JavaScript e TypeScript. 
+
+## 📚 Mais informações do projeto
+
+O design e protótipo deste projeto podem ser encontrados [aqui](https://space-app-tau-ashen.vercel.app).
